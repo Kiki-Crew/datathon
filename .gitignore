@@ -1,8 +1,0 @@
-# 결과 json 파일 안 올라가게 ...
-*.json
-*.jsonl
-
-__pycache__/
-*.pyc
-.DS_Store
-Thumbs.db
