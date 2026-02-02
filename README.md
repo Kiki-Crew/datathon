@@ -90,37 +90,44 @@ DBpia 학술 논문 메타데이터(2021-2025)를 기반으로 생성형 AI를 �
 <table>
   <tr>
     <th>토픽 분포</th>
+    <th>토픽 계층 확인</th>
     <th>대표 키워드</th>
-    <th>문서 분포</th>
+    <th>연도별 토픽 비중 변화</th>
+    <th>2021-2022 / 2023-2025 토픽 비중 변</th>
   </tr>
   <tr>
-    <td><img width="260" height="260" alt="image" src="https://github.com/user-attachments/assets/5b93f0c0-6745-4e04-9caa-b535160a02a2" />
-</td>
-    <td><img width="700" height="280" alt="image" src="https://github.com/user-attachments/assets/6f43cb0d-3ccc-4649-8f75-ce21aa43c3b4" />
-</td>
-    <td><img width="400" height="240" alt="image" src="https://github.com/user-attachments/assets/ff8093bc-7550-4c62-9885-c3f2378e2b70" />
-</td>
+    <td><img width="589" height="602" alt="image" src="https://github.com/user-attachments/assets/d5e7e2f2-20c2-4add-be91-4168eeffa3ea" /></td>
+    <td><img width="920" height="262" alt="image" src="https://github.com/user-attachments/assets/ccabc0b1-0d3a-4476-b771-b329f4d3e112" /></td>
+    <td><img width="924" height="450" alt="image" src="https://github.com/user-attachments/assets/a794f11f-fccd-44d5-80af-cab557fdc42f" /></td>
+    <td><img width="918" height="448" alt="image" src="https://github.com/user-attachments/assets/69ee012a-2fec-48ab-8c4d-6dc77e605634" /></td>
+    <td><img width="400" height="240" alt="image" src="https://github.com/user-attachments/assets/ff8093bc-7550-4c62-9885-c3f2378e2b70" /></td>
   </tr>
 </table>
 
 <br>
 
-### 딥러닝 및 전통적 머신러닝
+### 전통적 머신러닝 및 딥러닝
 - 보안(Security) 관련 연구의 전반적 확대
 - 의료·헬스케어 분야는 전통적 머신러닝(설문·정형 데이터)과 딥러닝(영상 데이터) 모두에서 상위 토픽으로 유지
 - 로봇 제어, 결함 탐지, 에너지 등 산업 AI 응용 연구 증가
+
+전통적 머신러닝
 <table>
   <tr>
-    <th>토픽 분포</th>
-    <th>대표 키워드</th>
-    <th>계층 구조</th>
+    <th>바차트</th>
+    <th>전통 ML 토픽 분포(2021-2022)</th>
+    <th>전통 ML 토픽 분포(2023-2025)</th>
+    <th>전통ML 토픽 계층 확인 (2021-2022)</th>
+    <th>전통ML 토픽 계층 확인 (2023-2025)</th>
   </tr>
   <tr>
-    <td><img width="260" height="260" alt="image" src="https://github.com/user-attachments/assets/5b93f0c0-6745-4e04-9caa-b535160a02a2" />
+    <td></td>
+    <td><img width="797" height="797" alt="image" src="https://github.com/user-attachments/assets/dc3951ef-a6d0-437f-a802-e1def0b98ece" /></td>
+    <td><img width="797" height="797" alt="image" src="https://github.com/user-attachments/assets/f4dfcf24-37de-4aa3-bf92-d2af1541c3e9" />
 </td>
-    <td><img width="700" height="280" alt="image" src="https://github.com/user-attachments/assets/6f43cb0d-3ccc-4649-8f75-ce21aa43c3b4" />
+    <td><img width="1173" height="542" alt="image" src="https://github.com/user-attachments/assets/45955c9a-a867-4ed7-979f-62566d6dccc1" />
 </td>
-    <td><img width="400" height="240" alt="image" src="https://github.com/user-attachments/assets/ff8093bc-7550-4c62-9885-c3f2378e2b70" />
+    <td><img width="1171" height="713" alt="image" src="https://github.com/user-attachments/assets/866ef774-c8f6-41f3-b077-8fd7af776c71" />
 </td>
   </tr>
 </table>
